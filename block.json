@@ -1,0 +1,13 @@
+{
+  "name": "a8c/book",
+  "title": "Book",
+  "category": "widgets",
+  "description": "Blook to display books and their data",
+  "textdomain": "a8c",
+  "supports": {
+    "html": false
+  },
+  "editorScript": "file:./build/index.js",
+  "editorStyle": "file:./build/index.css",
+  "style": "file:./build/style-index.css"
+}
